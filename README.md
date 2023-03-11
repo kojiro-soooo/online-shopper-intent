@@ -3,5 +3,4 @@ A comparison of machine learning models based on their performance to predict on
 
 To run, the .ipynb file should be uploaded to Google Colab as the code currently relies on the CSV file being stored in the user's Google Drive folder.!
 
-[Results of model comparison on test data according to accuracy and AUC metrics](https://raw.githubusercontent.com/kojiro-soooo
-/online-shopper-intent/master/images/Results.png)
+[Results of model comparison on test data according to accuracy and AUC metrics](https://raw.githubusercontent.com/kojiro-soooo/online-shopper-intent/master/images/Results.png)
